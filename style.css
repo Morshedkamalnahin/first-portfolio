@@ -79,7 +79,12 @@
                 border-image: linear-gradient(purple, tomato);
                 border-image-slice: 1;
             }
-            
+            .deeppink{
+              Color:#ff1493;
+            }
+            .deepblue{ 
+             color:#0a538b;
+             }
             footer p {
                 text-align: center;
             }
